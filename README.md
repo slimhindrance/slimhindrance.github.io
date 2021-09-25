@@ -1,2 +1,2 @@
-# slimhindrance.giothub.io
+# slimhindrance.github.io
 Repository for My Pages
